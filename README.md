@@ -23,7 +23,8 @@ This challenge consists in creating a daily planner to help organize the tasks t
 
 link: https://kikolock.github.io/Daily-Planner-/
 
-## Start quiz
-![My Remote Image](...)
+## Daily Planner
+![My Remote Image](https://github.com/Kikolock/Daily-Planner-/blob/main/Assets/images/day%20planner.PNG)
+![My Remote Image](https://github.com/Kikolock/Daily-Planner-/blob/main/Assets/images/05-third-party-apis-homework-demo.gif)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
