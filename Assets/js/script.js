@@ -10,10 +10,11 @@ var time = moment().format('LTS');
     console.log(time)
     $("#currentTime").text(time);
 
-// var refresh = setInterval(function updateDiv()
-//     { 
-//         $( "#here" ).load(window.location.href + " #here" );
-//     },1000);
+    window.setInterval(function () {
+        var time = moment().format('LTS');
+        console.log(time)
+        $("#currentTime").text(time);
+    }, 1000);
 
 var loadEvents = function() {
     events = JSON.parse(localStorage.getItem("events"));
